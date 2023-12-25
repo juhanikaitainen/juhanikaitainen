@@ -15,7 +15,7 @@
 
 <br clear="both">
 
-[![Code's github activity graph](https://raw.githubusercontent.com/athene227/athene227/output/snake.svg)](https://skyline.github.com/smilewebmaster)
+
 
 </div>
 
